@@ -23,8 +23,15 @@
   {
     "name": "JSF",
     "ring": "hold",
-    "quadrant": "languages & frameworks",
+    "quadrant": "languages",
     "isNew": "FALSE",
     "description": "We continue to see teams run into trouble using JSF ..."
-  }
+  },
+  {
+    "name": "Typescript",
+    "ring": "language",
+    "quadrant": "frameworks",
+    "isNew": "TRUE",
+    "description": "We continue to see teams run into trouble using programming languages ..."
+  }  
 ]
