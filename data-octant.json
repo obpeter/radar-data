@@ -28,10 +28,31 @@
     "description": "We continue to see teams run into trouble using JSF ..."
   },
   {
-    "name": "Typescript",
+    "name": "Typescript1",
     "ring": "trial",
-    "octant": "frameworks",
+    "octant": "frameworks1",
     "isNew": "TRUE",
     "description": "We continue to see teams run into trouble using programming languages ..."
+  },
+  {
+    "name": "Typescript2",
+    "ring": "trial",
+    "octant": "frameworks2",
+    "isNew": "TRUE",
+    "description": "We continue to see teams run into trouble using programming languages ..."
+  },
+  {
+    "name": "Typescript3",
+    "ring": "trial",
+    "octant": "frameworks3",
+    "isNew": "TRUE",
+    "description": "We continue to see teams run into trouble using programming languages ..."
+  },
+  {
+    "name": "Typescript4",
+    "ring": "trial",
+    "octant": "frameworks4",
+    "isNew": "TRUE",
+    "description": "We continue to see teams run into trouble using programming languages ..."    
   }  
 ]
