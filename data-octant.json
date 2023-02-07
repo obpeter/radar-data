@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Composer",
+    "ring": "adopt",
+    "octant": "tools",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
+  },
+  {
+    "name": "Canary builds",
+    "ring": "trial",
+    "octant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  },
+  {
+    "name": "Apache Kylin",
+    "ring": "assess",
+    "octant": "platforms",
+    "isNew": "TRUE",
+    "description": "Apache Kylin is an open source analytics solution ..."
+  },
+  {
+    "name": "JSF",
+    "ring": "hold",
+    "octant": "languages",
+    "isNew": "FALSE",
+    "description": "We continue to see teams run into trouble using JSF ..."
+  },
+  {
+    "name": "Typescript",
+    "ring": "trial",
+    "octant": "frameworks",
+    "isNew": "TRUE",
+    "description": "We continue to see teams run into trouble using programming languages ..."
+  }  
+]
