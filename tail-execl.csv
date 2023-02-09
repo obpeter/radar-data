@@ -19,5 +19,5 @@ iot,assess,frameworks,FALSE,IoT Framework for Smartcities
 google,assess,clouds,FALSE,Hyperscaler Google Inc.
 aws,assess,clouds,FALSE,Hyperscaler Amazon Inc.
 azure,assess,clouds,FALSE,Hyperscaler Microsoft Inc.
-litmus,trail,connectivity,FALSE,Shopfloor connectivity 
+litmus,trial,connectivity,FALSE,Shopfloor connectivity 
 grafana,assess,visualisation,FALSE,Dashboard
