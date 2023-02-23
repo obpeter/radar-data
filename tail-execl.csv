@@ -1,23 +1,23 @@
 name,ring,octant,isNew,description
-Adopt-platforms,adopt,platforms,FALSE,Am a platform adopt me
-Asses-platforms,assess,platforms,TRUE,Am a platform assess me
-hold - platforms,hold,platforms,FALSE,Am a platform hold me
-trial - platforms,trial,platforms,FALSE,Am a platform trial me
-Adopt-techniques,adopt,techniques,FALSE,Am a technique adopt me
-Asses-techniques,assess,techniques,TRUE,Am a technique assess me
-hold - techniques,hold,techniques,FALSE,Am a technique hold me
-trial - techniques,trial,techniques,FALSE,Am a technique trial me
-Adopt-languages & frameworkss,adopt,languages & frameworkss,FALSE,Am a language or framework adopt me
-Asses-languages & frameworkss,assess,languages & frameworkss,TRUE,Am a language or framework assess me
-hold - languages & frameworkss,hold,languages & frameworkss,FALSE,Am a language or framework hold me
-trial - languages & frameworkss,trial,languages & frameworkss,FALSE,Am a language or framework trial me
-Adopt-tools,adopt,tools,FALSE,Am a blah adopt me
-Asses-tools,assess,tools,TRUE,Am a tool assess me
-hold - tools,hold,tools,FALSE,Am a tool hold me
-trial - tools,trial,tools,FALSE,Am a tool trial me
-iot,assess,frameworks,FALSE,IoT Framework for Smartcities
-google,assess,clouds,FALSE,Hyperscaler Google Inc.
-aws,assess,clouds,FALSE,Hyperscaler Amazon Inc.
-azure,assess,clouds,FALSE,Hyperscaler Microsoft Inc.
-litmus,trial,connectivity,FALSE,Shopfloor connectivity 
-grafana,assess,visualisation,FALSE,Dashboard
+Adopt-platforms,adopt,platforms,FALSE,1,Am a platform adopt me
+Asses-platforms,assess,platforms,TRUE,1,Am a platform assess me
+hold - platforms,hold,platforms,FALSE,1,Am a platform hold me
+trial - platforms,trial,platforms,FALSE,1,Am a platform trial me
+Adopt-techniques,adopt,techniques,FALSE,1,Am a technique adopt me
+Asses-techniques,assess,techniques,TRUE,1,Am a technique assess me
+hold - techniques,hold,techniques,FALSE,1,Am a technique hold me
+trial - techniques,trial,techniques,FALSE,1,Am a technique trial me
+Adopt-languages & frameworkss,adopt,languages & frameworkss,FALSE,1,Am a language or framework adopt me
+Asses-languages & frameworkss,assess,languages & frameworkss,TRUE,1,Am a language or framework assess me
+hold - languages & frameworkss,hold,languages & frameworkss,FALSE,1,Am a language or framework hold me
+trial - languages & frameworkss,trial,languages & frameworkss,FALSE,1,Am a language or framework trial me
+Adopt-tools,adopt,tools,FALSE,1,Am a blah adopt me
+Asses-tools,assess,tools,TRUE,1,Am a tool assess me
+hold - tools,hold,tools,FALSE,1,Am a tool hold me
+trial - tools,trial,tools,FALSE,1,Am a tool trial me
+iot,assess,frameworks,FALSE,1,IoT Framework for Smartcities
+google,assess,clouds,FALSE,1,Hyperscaler Google Inc.
+aws,assess,clouds,FALSE,1,Hyperscaler Amazon Inc.
+azure,assess,clouds,FALSE,1,Hyperscaler Microsoft Inc.
+litmus,trial,connectivity,FALSE,1,Shopfloor connectivity 
+grafana,assess,visualisation,FALSE,1,Dashboard
