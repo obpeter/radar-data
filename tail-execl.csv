@@ -1,4 +1,4 @@
-name,ring,octant,isNew,description
+name,ring,octant,isNew,quantifier,description
 Adopt-platforms,adopt,platforms,FALSE,1,Am a platform adopt me
 Asses-platforms,assess,platforms,TRUE,1,Am a platform assess me
 hold - platforms,hold,platforms,FALSE,1,Am a platform hold me
